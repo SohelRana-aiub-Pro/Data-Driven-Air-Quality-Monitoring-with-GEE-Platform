@@ -1,4 +1,4 @@
-Data-Driven-Air-Quality-Monitoring-with-GEE-Platform, A Case Study of Turkey Region.
+Data-Driven-Air-Quality-Monitoring-with-GEE-Platform, A Case Study of Turkey Region. Question about the scene
 -----------------------------------------------------------------------------------
 
 
